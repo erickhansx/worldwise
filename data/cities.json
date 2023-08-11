@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -47,42 +35,6 @@
         "lng": "0.5053710937500001"
       },
       "id": 98443198
-    },
-    {
-      "cityName": "La Puebla de Valverde",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-11T03:04:35.857Z",
-      "notes": "",
-      "position": {
-        "lat": "40.195659093364654",
-        "lng": "-0.9228515625000001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Ben Mansour",
-      "country": "Morocco",
-      "emoji": "🇲🇦",
-      "date": "2023-08-11T03:06:33.523Z",
-      "notes": "",
-      "position": {
-        "lat": "34.470335121217495",
-        "lng": "-6.328125000000001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "In Ghar",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-08-11T03:10:39.908Z",
-      "notes": "",
-      "position": {
-        "lat": "26.80446076654616",
-        "lng": "2.1972656250000004"
-      },
-      "id": 98443201
     }
   ]
 }
